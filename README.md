@@ -33,16 +33,18 @@
 ---
 
 ## 📈 Leadership & Extracurriculars
-- **Student Coordinator** of the Books Club 📚
+- **Team Leader** of the Project AI-Powered Res-Q Vehicle 📚
+- **Team Leader** of the Project AI-Fitwear 📚
+- **Team Leader** of the Project Advanced Driver Assistance 📚
 - **Event Coordinator** for various departmental events
-- Presented projects and innovations, including at TIH (Technology Innovation Hub)
+- Presented projects and innovations, including at MSME(Micro, Small and Medium Enterprises)
 
 ---
 
 ## 🌐 Connect with Me
-- **GitHub**: [Dharshana Sivalingam](https://github.com/dharshana-s)
-- **LinkedIn**: [Dharshana Sivalingam](https://www.linkedin.com/in/dharshana-sivalingamam-aa120125a/)
-- **Email**: dharshanasivalingam@gmail.com
+- **GitHub**: [ramyaofficial] (https://github.com/ramyanofficial)
+- **LinkedIn**: [Ramya N] (https://www.linkedin.com/in/ramya-n-7655a3338)
+- **Email**: ramya.pvtx@gmail.com
 
 ---
 
