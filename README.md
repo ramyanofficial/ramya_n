@@ -18,17 +18,17 @@
 - **AI-Powered Res-Q Vehicle**  
   The project involves developing an autonomous AI-powered rescue vehicle to assist in locating and rescuing individuals trapped under landslide debris. Equipped with AI, GPS, image recognition, and obstacle detection systems, the vehicle identifies survivors and deceased, marking their locations on a map for rescuers. It uses LiDAR and ultrasonic sensors for navigation, ensuring safety in hazardous zones. Designed for efficiency and scalability, the system leverages proven technologies to provide precise location tracking, faster response times, and reduced human risk, making it a practical and cost-effective solution for disaster scenarios.
 
-- **Weather Dashboard**  
-  Built using **API integration** to display real-time weather information for different locations.
+- **AI-FitWear**  
+  This problem highlights the gap in customer satisfaction in the retail fashion industry, particularly concerning personalization and fitting. It revolves around customers struggling to visualize the final look of unstitched fabrics or pre-designed garments, coupled with the limitations of traditional trial rooms. The inability to accurately predict the fit, style, or aesthetic can lead to time-consuming processes and unmet expectations, ultimately impacting the shopping experience.  
 
-- **Complaint Management System**  
-  Developed with **HTML, CSS, JavaScript, Bootstrap, PHP, and MySQL**, allowing users to submit, track, and resolve complaints effectively.
+- **Advanced Driver Assistance**  
+  This project aims to enhance road safety by using advanced sensors like LiDAR, radar, ultrasonic, and thermal imaging cameras to detect pedestrians, animals, and vehicles in real time. The system provides layered alerts, including light blinks at 50 meters, voice alerts, and speed reduction at 30 meters, automatically controlling the vehicle's speed to 20 km/hr. Additionally, automatic braking is activated if the speed limit is exceeded during object detection. This innovative solution minimizes accident risks and ensures safe distances are maintained, even in low-visibility conditions.
 
-- **Innovation Excellence Indicator**  
-  Created using **React, PHP, MySQL, and web scraping**. Includes clustering algorithms to group students based on achievements, stores scores, and updates a leaderboard for recruiters to access top candidates.
+- **Nritya Darshan-HTML**  
+  Created using **HTML**(Hypertext Markup Language). Includes various Tags to create a Dance website.
 
-- **Bakery Sales Tracker**  
-  A C++ program to calculate revenue and track sales of a bakery.
+- **The Perfume Palette-CSS**  
+  Created using **CSS**(CCascading Style Sheets) & **HTML**(Hypertext Markup Language). Includes various Tags to create a Perfumy website.
 
 ---
 
